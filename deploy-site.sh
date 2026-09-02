@@ -35,6 +35,7 @@ HTML_FILES=(
   "wavelopment.html"
   "privacy-policy.html"
   "security-policy.html"
+  "terms.html"
 )
 
 DRY_RUN=0
